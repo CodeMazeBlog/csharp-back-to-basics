@@ -1,4 +1,4 @@
 # csharp-back-to-basics
-Back to Basics in C# repo
+## Linear Structures
 
-https://code-maze.com/csharp-back-to-basics/
+https://code-maze.com/csharp-basics-linear-structures/
