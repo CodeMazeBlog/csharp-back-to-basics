@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D7DE374B-10F6-4338-A478-F7B19A0F0E47}</ProjectGuid>
+    <ProjectGuid>{487068CF-F6DB-4715-ABA1-7ABC59B72598}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FullNameGenerator</RootNamespace>
-    <AssemblyName>FullNameGenerator</AssemblyName>
+    <RootNamespace>StringMethods</RootNamespace>
+    <AssemblyName>StringMethods</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

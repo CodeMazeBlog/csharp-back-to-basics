@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{39974184-0C23-4D3A-BBD9-80FAAFB6ECD5}</ProjectGuid>
+    <ProjectGuid>{A370A5BD-2D8A-4B75-8849-AAD3D8BAB7F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SumGenerator</RootNamespace>
-    <AssemblyName>SumGenerator</AssemblyName>
+    <RootNamespace>RemovedWordsFromSentence</RootNamespace>
+    <AssemblyName>RemovedWordsFromSentence</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

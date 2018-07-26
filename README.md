@@ -1,4 +1,4 @@
 # csharp-back-to-basics
-## Linear Structures
+## Work with strings
 
-https://code-maze.com/csharp-basics-linear-structures/
+https://code-maze.com/csharp-basics-work-with-strings/
