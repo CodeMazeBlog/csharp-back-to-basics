@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{39974184-0C23-4D3A-BBD9-80FAAFB6ECD5}</ProjectGuid>
+    <ProjectGuid>{0DB2FCAC-86B8-47CC-8B42-FAACA9C2EE66}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SumGenerator</RootNamespace>
-    <AssemblyName>SumGenerator</AssemblyName>
+    <RootNamespace>DaysInMonth</RootNamespace>
+    <AssemblyName>DaysInMonth</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

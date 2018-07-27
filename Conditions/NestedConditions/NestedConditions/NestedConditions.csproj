@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D7DE374B-10F6-4338-A478-F7B19A0F0E47}</ProjectGuid>
+    <ProjectGuid>{96573EB1-150D-4290-8BA5-A93AEBC89286}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FullNameGenerator</RootNamespace>
-    <AssemblyName>FullNameGenerator</AssemblyName>
+    <RootNamespace>NestedConditions</RootNamespace>
+    <AssemblyName>NestedConditions</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

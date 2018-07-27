@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SumGenerator")]
+[assembly: AssemblyTitle("DaysInMonth")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SumGenerator")]
+[assembly: AssemblyProduct("DaysInMonth")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("39974184-0c23-4d3a-bbd9-80faafb6ecd5")]
+[assembly: Guid("0db2fcac-86b8-47cc-8b42-faaca9c2ee66")]
 
 // Version information for an assembly consists of the following four values:
 //
