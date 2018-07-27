@@ -1,4 +1,4 @@
 # csharp-back-to-basics
-## Conditions in C#
+## Loops in C#
 
-https://code-maze.com/csharp-basics-conditions/
+https://code-maze.com/csharp-basics-loops/
