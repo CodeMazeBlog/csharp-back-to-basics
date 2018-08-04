@@ -1,4 +1,4 @@
 # csharp-back-to-basics
-## Arrays in C#
+## StreamWriter and StreamReader in C#
 
- https://code-maze.com/csharp-basics-arrays/
+ https://code-maze.com/csharp-basics-streamwriter-streamreader/
