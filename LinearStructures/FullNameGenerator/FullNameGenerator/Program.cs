@@ -16,7 +16,7 @@ namespace FullNameGenerator
             Console.WriteLine("What is your last name:");
             string lastName = Console.ReadLine();
 
-            string fullName = name + "  " + lastName;
+            string fullName = name + " " + lastName;
             Console.WriteLine($"Your full name is: {fullName}");
 
             Console.ReadKey();
